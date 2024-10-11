@@ -1,4 +1,4 @@
-<div><center><img src="https://ml.ucv.ai/logo.png\" width=150"/> </center></div>
+<div><center><img src="logo.png\" width=150"/> </center></div>
 
 # 02 Parcial teórico 2
 
